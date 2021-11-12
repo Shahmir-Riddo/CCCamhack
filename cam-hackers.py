@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/AngelSecurityTeam/Cam-Hackers
+#Coded by Shahmir Riddo 
 
 import requests, re , colorama
 colorama.init()
